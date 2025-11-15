@@ -47,7 +47,7 @@ That's it! The backend and frontend will start automatically.
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Ashank007/echomind
    cd echomind
    ```
 
